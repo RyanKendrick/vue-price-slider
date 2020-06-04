@@ -5,10 +5,38 @@
 
       <label class="form-slider">
 
-        <span>How Many Square Feet?</span>
+        <span>How Many User Do You Have</span>
         <input type="range" />
-        <div class="pricing-slider-value"></div>
       </label>
+        <div class="pricing-slider-value"></div>
+    </div>
+
+    <div class="pricing-items">
+
+      <div class="pricing-item">
+
+        <div class="pricing-item-inner">
+
+          <div class="pricing-item-content">
+
+            <div class="pricing-item-header">
+
+              <div class="pricing-item-title">Basic</div>
+              <div class="pricing-item-price">
+
+                <span class="pricing-item-price-currency">$</span>
+                <span class="pricing-item-price-ammount">13</span>
+                <span class="pricing-item-price-after">/m</span>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
 
     </div>
 
